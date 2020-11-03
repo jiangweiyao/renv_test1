@@ -1,25 +1,25 @@
 {
     "id": "E40D2112",
-    "path": null,
-    "project_path": null,
+    "path": "~/rtest/test1/EnvTest.R",
+    "project_path": "EnvTest.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "3861985268",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1604343128650.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "12,0",
+        "cursorPosition": "6,16",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 866193332142601776,
-    "encoding": "",
+    "lastKnownWriteTime": 1604434340,
+    "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1604430671945,
+    "last_content_update": 1604434728334,
     "read_only": false,
     "read_only_alternatives": []
 }
